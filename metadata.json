@@ -1,0 +1,6 @@
+{
+  "name": "ShiftFlow Pro",
+  "description": "Автономный офлайн-трекер смен, столов, чаевых и финансов для официанта",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
